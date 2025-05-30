@@ -42,6 +42,28 @@ Ensure the following are installed:
 
 The folder structure of the application is shown below:
 
-![Project Structure](productmanagementsystem
-/Screenshots/projectstructure.png)
+ProductWebApp/
+├── WebContent/
+│ ├── index.jsp
+│ ├── productadd.jsp
+│ ├── productupdate.jsp
+│ ├── productdelete.jsp
+│ ├── productdisplay.jsp
+│ ├── reports.jsp
+│ ├── report_form.jsp
+│ └── report_result.jsp
+├── src/
+│ ├── com/
+│ ├── dao/
+│ │ └── ProductDAO.java
+│ ├── model/
+│ │ └── Product.java
+│ └── servlet/
+│ ├── AddProductServlet.java
+│ ├── UpdateProductServlet.java
+│ ├── DeleteProductServlet.java
+│ ├── DisplayProductsServlet.java
+│ ├── ReportServlet.java
+│ └── ReportCriteriaServlet.java
+└── WEB-INF/web.xml
 
