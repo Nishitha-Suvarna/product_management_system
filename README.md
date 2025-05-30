@@ -42,6 +42,6 @@ Ensure the following are installed:
 
 The folder structure of the application is shown below:
 
-![Project Structure](product_management_system
+![Project Structure](productmanagementsystem
 /Screenshots/projectstructure.png)
 
