@@ -2,68 +2,51 @@
 
 **Subject:** Advanced Java  
 **Subject Code:** BCS613D  
-**Name:** Samay Shetty  
-**USN:** 4AL22CS143  
-**Semester/Section:** VI / C  
-
-A comprehensive web application for managing product records, built using **JSP**, **Servlets**, and **MySQL**, following the **MVC architecture**.
+**Name:** Nishitha Suvarna  
+**USN:** 4AL22CS095 
+**Semester/Section:** VI / B
 
 ---
 
 ## 🚀 Features
 
-- 🔁 **CRUD Operations**: Add, Update, Delete, and Display products  
-- 🔍 **Search by ID**: Quickly find products by their unique ID  
-- 📊 **Reports Section**:
-  - Products with price greater than a specified value  
-  - Products in a specific category  
+- ✅ Add, Update, Delete, and Display products  
+- 🔍 Filter products by category and price  
+- 📊 Generate reports:
+  - Products with price above specified value
+  - Products in a given category
   - Top N products by sales or quantity  
-- ✅ **Input Validation**: Both client-side and server-side  
-- 💻 **Clean UI**: Styled with Bootstrap  
-- 🛠️ **MVC Architecture**: Clean separation of concerns  
-- 🗃️ **Database Integration**: MySQL via JDBC  
-
----
-
-## 📋 Prerequisites
-
-Ensure the following are installed:
-
-- Java Development Kit (JDK) 8 or above  
-- Apache Tomcat 9 or above  
-- MySQL Server or XAMPP  
-- MySQL JDBC Driver (`mysql-connector-java`)  
-- Java IDE (e.g., Eclipse, IntelliJ IDEA)  
-- A modern web browser  
+- 💾 JDBC and MySQL integration  
+- 🧱 MVC Architecture  
+- 🎨 User-friendly web interface using JSP and Bootstrap
 
 ---
 
 ## 🛠️ Project Structure
 
-The folder structure of the application is shown below:
-
+```plaintext
 ProductWebApp/
 ├── WebContent/
-│ ├── index.jsp
-│ ├── productadd.jsp
-│ ├── productupdate.jsp
-│ ├── productdelete.jsp
-│ ├── productdisplay.jsp
-│ ├── reports.jsp
-│ ├── report_form.jsp
-│ └── report_result.jsp
+│   ├── index.jsp
+│   ├── productadd.jsp
+│   ├── productupdate.jsp
+│   ├── productdelete.jsp
+│   ├── productdisplay.jsp
+│   ├── reports.jsp
+│   ├── report_form.jsp
+│   └── report_result.jsp
 ├── src/
-│ ├── com/
-│ ├── dao/
-│ │ └── ProductDAO.java
-│ ├── model/
-│ │ └── Product.java
-│ └── servlet/
-│ ├── AddProductServlet.java
-│ ├── UpdateProductServlet.java
-│ ├── DeleteProductServlet.java
-│ ├── DisplayProductsServlet.java
-│ ├── ReportServlet.java
-│ └── ReportCriteriaServlet.java
-└── WEB-INF/web.xml
-
+│   └── com/
+│       ├── dao/
+│       │   └── ProductDAO.java
+│       ├── model/
+│       │   └── Product.java
+│       └── servlet/
+│           ├── AddProductServlet.java
+│           ├── UpdateProductServlet.java
+│           ├── DeleteProductServlet.java
+│           ├── DisplayProductsServlet.java
+│           ├── ReportServlet.java
+│           └── ReportCriteriaServlet.java
+├── WEB-INF/
+│   └── web.xml
