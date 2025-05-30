@@ -1,6 +1,6 @@
-# 📦 Product Management System
- Subject: Advanced Java
- Subject Code: BCS613D
- Name: Nishitha Suvarna
- USN: 4AL22CS095
- Semester/Section: VI / B
+📦 Product Management System
+Subject: Advanced Java
+Subject Code: BCS613D
+Name: Samay Shetty
+USN: 4AL22CS143
+Semester/Section: VI / C
