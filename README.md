@@ -116,7 +116,7 @@ Download all the project files and organize them according to the project struct
 <img src="https://github.com/Nishitha-Suvarna/product_management_system/blob/main/ProductManagementSystem/Screenshots/Dashboard.png" alt="Dashboard" width="700"/>
 
 ### ➕ Add Product
-<img src="Screenshots/Addingproduct.png" alt="Add Product" width="700"/>
+<img src="https://github.com/Nishitha-Suvarna/product_management_system/blob/main/ProductManagementSystem/Screenshots/Addingproduct.png" alt="Add Product" width="700"/>
 
 
 
