@@ -113,7 +113,7 @@ Download all the project files and organize them according to the project struct
 
 ### 🖼️ Screenshots
 🏠 Home Page
-<img src="[Screenshots/Dashboard.png](https://github.com/Nishitha-Suvarna/product_management_system/blob/main/ProductManagementSystem/Screenshots/Dashboard.png)" alt="Dashboard" width="700"/>
+<img src="https://github.com/Nishitha-Suvarna/product_management_system/blob/main/ProductManagementSystem/Screenshots/Dashboard.png" alt="Dashboard" width="700"/>
 
 
 
