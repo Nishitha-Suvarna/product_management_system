@@ -51,7 +51,7 @@ ProductWebApp/
 ├── WEB-INF/
 │   └── web.xml
 
----
+----
 
 
 ## 🧰 Prerequisites
@@ -65,7 +65,7 @@ ProductWebApp/
 
 ---
 
-## 🗄 Database Setup
+##  🗄 Database Setup
 
 ### 1. Create Database
 
