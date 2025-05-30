@@ -49,7 +49,7 @@ ProductWebApp/
 │           ├── ReportServlet.java
 │           └── ReportCriteriaServlet.java
 ├── WEB-INF/
-│   └── web.xml
+│   └── web.xml```
 
 ----
 
