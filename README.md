@@ -51,8 +51,7 @@ ProductWebApp/
 ├── WEB-INF/
 │   └── web.xml```
 
-----
-
+---- plaintext
 
 ## 🧰 Prerequisites
 
