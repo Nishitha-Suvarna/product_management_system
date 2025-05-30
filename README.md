@@ -50,3 +50,16 @@ ProductWebApp/
 │           └── ReportCriteriaServlet.java
 ├── WEB-INF/
 │   └── web.xml
+
+##🧰 Prerequisites
+##Java JDK 8 or above
+
+##Apache Tomcat 9+
+
+##MySQL / XAMPP
+
+##MySQL JDBC Driver
+
+##Eclipse or IntelliJ IDE
+
+##Web browser
