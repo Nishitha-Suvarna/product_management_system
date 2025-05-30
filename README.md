@@ -119,7 +119,7 @@ Download all the project files and organize them according to the project struct
 <img src="https://github.com/Nishitha-Suvarna/product_management_system/blob/main/ProductManagementSystem/Screenshots/Addingproduct.png" alt="Add Product" width="700"/>
 
 ### ❌ Delete Product
-<img src="Screenshots/deleteproduct.png" alt="Delete Product" width="700"/>
+<img src="https://github.com/Nishitha-Suvarna/product_management_system/blob/main/ProductManagementSystem/Screenshots/deleteproduct.png" alt="Delete Product" width="700"/>
 
 ### 🆕 Update Product
 <img src="Screenshots/updateproduct.png" alt="Update Product" width="700"/>
