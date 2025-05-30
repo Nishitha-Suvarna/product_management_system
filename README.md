@@ -112,7 +112,7 @@ Download all the project files and organize them according to the project struct
 4. Start the Tomcat server
 
 ### 🖼️ Screenshots
-🏠 Home Page
+### 🏠 Home Page
 <img src="https://github.com/Nishitha-Suvarna/product_management_system/blob/main/ProductManagementSystem/Screenshots/Dashboard.png" alt="Dashboard" width="700"/>
 
 
