@@ -42,5 +42,5 @@ Ensure the following are installed:
 
 The folder structure of the application is shown below:
 
-![Project Structure](screenshots/projectstructure.png)
+![Project Structure](Screenshots/projectstructure.png)
 
