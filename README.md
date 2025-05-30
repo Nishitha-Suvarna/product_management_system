@@ -40,4 +40,7 @@ Ensure the following are installed:
 
 ## 🛠️ Project Structure
 
+The folder structure of the application is shown below:
+
+![Project Structure](screenshots/projectstructure.png)
 
