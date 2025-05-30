@@ -51,15 +51,46 @@ ProductWebApp/
 ├── WEB-INF/
 │   └── web.xml
 
-##🧰 Prerequisites
-##Java JDK 8 or above
+---
 
-##Apache Tomcat 9+
+## 🧰 Prerequisites
 
-##MySQL / XAMPP
+- Java JDK 8 or above  
+- Apache Tomcat 9+  
+- MySQL / XAMPP  
+- MySQL JDBC Driver  
+- Eclipse or IntelliJ IDE  
+- Web browser  
 
-##MySQL JDBC Driver
+---
 
-##Eclipse or IntelliJ IDE
+## 🗄 Database Setup
 
-##Web browser
+### 1. Create Database
+
+```sql
+CREATE DATABASE IF NOT EXISTS product_db;
+USE product_db;
+
+## 🗄 Database Setup
+
+### 2. Create Table
+
+```sql
+CREATE TABLE products (
+  product_id INT PRIMARY KEY,
+  name VARCHAR(100),
+  category VARCHAR(50),
+  price DECIMAL(10,2),
+  quantity INT,
+  sales INT
+);
+
+### 3. Insert Sample Data
+```sql
+Copy
+Edit
+INSERT INTO products VALUES 
+(1, 'Mobile Phone', 'Electronics', 15000.00, 50, 200),
+(2, 'Laptop', 'Electronics', 55000.00, 30, 100),
+(3, 'Chair', 'Furniture', 2500.00, 80, 60);
