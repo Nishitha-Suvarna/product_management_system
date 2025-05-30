@@ -125,7 +125,7 @@ Download all the project files and organize them according to the project struct
 <img src="Screenshots/updateproduct.png" alt="Update Product" width="700"/>
 
 ### 📋 Display Products
-<img src="Screenshots/displayproduct.png" alt="Display Products" width="700"/>
+<img src="https://github.com/Nishitha-Suvarna/product_management_system/blob/main/ProductManagementSystem/Screenshots/displayproduct.png" alt="Display Products" width="700"/>
 
 ### 📊 Report Result
 <img src="Screenshots/reportresult.png" alt="Report Result" width="700"/>
